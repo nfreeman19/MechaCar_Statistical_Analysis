@@ -12,10 +12,16 @@ In the summary output, the Pr(>ltl) value for each of the coefficients represent
 ![myTest](https://github.com/nfreeman19/MechaCar_Statistical_Analysis/blob/main/Images/Screen%20Shot%202021-10-16%20at%209.14.39%20AM.png)
 
 ### Lot Summary:
-![myTest]()
+![myTest](https://github.com/nfreeman19/MechaCar_Statistical_Analysis/blob/main/Images/Screen%20Shot%202021-10-16%20at%209.14.51%20AM.png)
 
 In the total summary, we found the mean, median, variance and standard deviation of the suspension coil’s PSI column. In the lot summary, we also found the mean, median, variance and standard deviation of the suspension coil’s PSI column, but it is separated by manufacturing lot. In total, the entire population of the production lot has a variance of 62.29 PSI, which is within the 100 PSI limit. However, when looking at each manufacturing lot individually, only Lot 1 (variance of 0.98 PSI) and Lot 2 (variance of 7.47 PSI) are within the 100 PSI limit as Lot 3 has a variance of 170.29 PSI. 
 
+## T-Tests on Suspension Coils
+
+### T-Test results across all manufacturing lots:
 
 ![myTest]()
+
+### T-Test results for each manufacturing lot:
+
 ![myTest]()
