@@ -24,4 +24,11 @@ In the total summary, we found the mean, median, variance and standard deviation
 
 ### T-Test results for each manufacturing lot:
 
-![myTest]()
+![myTest](https://github.com/nfreeman19/MechaCar_Statistical_Analysis/blob/main/Images/Screen%20Shot%202021-10-16%20at%209.38.36%20AM.png)
+
+Across all manufacturing lots, the mean of the sample is 1498.78. Also, the p-value is 0.06028, which is above the common significance level of 0.05, so there is not enough evidence to support rejecting the null hypothesis. When looking at each of the manufacturing lots individually, lot 1 has a mean of 1500 and a p-value of 1, lot 2 has a mean of 1500.2 and a p-value of 0.6072, and lot 3 has a mean of 1496.14 and a p-value of 0.04168. This analysis shows that the null hypothesis cannot be rejected in lot 1 and lot 2 but the null hypothesis should be rejected in lot 3. 
+
+## Study Design: MechaCar vs. Competition 
+
+An additional test that I would like to do is to compare the safety rating, horsepower and highway fuel efficiency of MechaCar against the competition. In this scenario, the null hypothesis is that the mean of the safety rating is zero and the alternative hypothesis is that the mean of the safety rating is not zero. Also in this scenario, using a multiple linear regression statistical summary would show how the variables impact the safety ratings for MechaCar and the competition. A random sample of MechaCar and their competitors would need to be collected including the safety ratings, highway fuel efficiency and horsepower for each. 
+
