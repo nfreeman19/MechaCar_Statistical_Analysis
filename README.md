@@ -20,7 +20,7 @@ In the total summary, we found the mean, median, variance and standard deviation
 
 ### T-Test results across all manufacturing lots:
 
-![myTest]()
+![myTest](https://github.com/nfreeman19/MechaCar_Statistical_Analysis/blob/main/Images/Screen%20Shot%202021-10-16%20at%209.49.15%20AM.png)
 
 ### T-Test results for each manufacturing lot:
 
